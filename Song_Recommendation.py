@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr  7 21:15:54 2021
-
-@author: rg
-"""
-
 import Camera
 import pandas as pd
 import random
