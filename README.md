@@ -5,10 +5,14 @@ Welcome to our Emotion-Based Music Playlist Maker! This project is designed to r
 
 Features
 Emotion Recognition: Utilizes a Convolutional Neural Network (CNN) model to analyze emotional features in music.
+
 User-Friendly Interface: A sleek and intuitive frontend for seamless interaction.
+
 Personalized Playlists: Craft playlists tailored to specific emotions, enhancing your music listening experience.
+
 Getting Started
-Prerequisites
+
+Prerequisites:
 Python 3.x
 Spotify API
 TensorFlow
